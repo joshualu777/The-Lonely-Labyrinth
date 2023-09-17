@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: 57fdb446900d4c54bb615a1269c0d1f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 174507820355795364
+    second: StoneBackground_0
+  - first:
+      213: -5717905315555793604
+    second: StoneBackground_1
+  - first:
+      213: 7673629610602774798
+    second: StoneBackground_2
+  - first:
+      213: 2363537835756842323
+    second: StoneBackground_3
+  - first:
+      213: 6128067261717287688
+    second: StoneBackground_4
+  - first:
+      213: -1833111348848772470
+    second: StoneBackground_5
+  - first:
+      213: 837671274896300022
+    second: StoneBackground_6
+  - first:
+      213: 2694307391338749735
+    second: StoneBackground_7
+  - first:
+      213: -4589449160648483081
+    second: StoneBackground_8
+  - first:
+      213: -8505342965179686645
+    second: StoneBackground_9
+  - first:
+      213: 5695772775371344074
+    second: StoneBackground_10
+  - first:
+      213: -8548963518756868813
+    second: StoneBackground_11
+  - first:
+      213: -8853638363179347105
+    second: StoneBackground_12
+  - first:
+      213: 185801164530467714
+    second: StoneBackground_13
+  - first:
+      213: -3861351526348495339
+    second: StoneBackground_14
+  - first:
+      213: -7783095099701136218
+    second: StoneBackground_15
+  - first:
+      213: -5079663419749865471
+    second: StoneBackground_16
+  - first:
+      213: 1169490096452245190
+    second: StoneBackground_17
+  - first:
+      213: -2245647709030554534
+    second: StoneBackground_18
+  - first:
+      213: -7347032116545727649
+    second: StoneBackground_19
+  - first:
+      213: -7245165246444145952
+    second: StoneBackground_20
+  - first:
+      213: 6931391741607002167
+    second: StoneBackground_21
+  - first:
+      213: -6450314168576222520
+    second: StoneBackground_22
+  - first:
+      213: -510083037723210659
+    second: StoneBackground_23
+  - first:
+      213: 4877961932412008412
+    second: StoneBackground_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneBackground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9b5d220f9fb6200800000000000000
+      internalID: 174507820355795364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 306
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35aaf6096be5a0b0800000000000000
+      internalID: -5717905315555793604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 306
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01c5e569753e7a60800000000000000
+      internalID: 7673629610602774798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 306
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d6b799329fcc020800000000000000
+      internalID: 2363537835756842323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 306
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8031c56e4b44b0550800000000000000
+      internalID: 6128067261717287688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ab122c0fa7f86e0800000000000000
+      internalID: -1833111348848772470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 204
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71eba169100ab00800000000000000
+      internalID: 837671274896300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f94702c4a146520800000000000000
+      internalID: 2694307391338749735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 204
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe15d8ed400f40c0800000000000000
+      internalID: -4589449160648483081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_9
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 204
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01e89be2a3f6f980800000000000000
+      internalID: -8505342965179686645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8895569237b0f40800000000000000
+      internalID: 5695772775371344074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 102
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d29ba59fafb5980800000000000000
+      internalID: -8548963518756868813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 102
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f539ce831de812580800000000000000
+      internalID: -8853638363179347105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 102
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28341babc29149200800000000000000
+      internalID: 185801164530467714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 102
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e51fbe39b96ac0800000000000000
+      internalID: -3861351526348495339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4fa315e34ecf390800000000000000
+      internalID: -7783095099701136218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108634f68096189b0800000000000000
+      internalID: -5079663419749865471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c69f57eb0dda3010800000000000000
+      internalID: 1169490096452245190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54609c7e4bd5d0e0800000000000000
+      internalID: -2245647709030554534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBackground_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 122.4
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53d7eb57391a0a90800000000000000
+      internalID: -7347032116545727649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
